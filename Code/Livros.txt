@@ -1,0 +1,21 @@
+5678-1234|O Diario Secreto|Sofia Pereira|Jornal|2006|DIGITAL
+5687-4321|O Manuel Morreu|Guilherme Silva|Ficcao|2020|10
+2345-6789|A Magia do Outono|Joao Pereira|Revista|2015|4
+8765-4321|O Misterio da Caverna|Maria Almeida|Jornal|2016|FISICO
+1234-8765|O Principe Dragao|Andre Oliveira|Revista|2012|10
+4321-5678|O Misterio do Farol|Ricardo Almeida|Jornal|2011|DIGITAL
+1234567890123|O Tesouro Perdido|Laura Silva|Educativo|2007|6
+1497071211002|A Cidade do Silencio|Joana Alves|Ficcao|2013|9
+6789-1234|A Terra dos Sonhos|Sofia Rodrigues|Revista|2000|12
+8765-2345|O Misterio do Relogio|Ana Santos|Jornal|2005|FISICO
+9115516080004|A Furia do Dragao|Diogo Costa|Cientifico|2016|4
+1616963934001|O Codigo das Sombras|Diana Lima|Ficcao|2007|11
+2345-1234|O Feiticeiro Perdido|Andre Dias|Revista|2011|EDICAO7
+4321-8765|O Misterio da Mansao|Rafael Ferreira|Jornal|2004|DIGITAL
+1090404191001|A Ilha dos Segredos|Ines Pereira|Cientifico|2015|3
+7150147100234|O Enigma da Esfinge|Joao Costa|Ficcao|2008|2
+1881569813012|A Jornada do Heroi|Miguel Santos|Educativo|2010|8
+5678-8765|A Cidade das Sombras|Mariana Costa|Revista|1976|5
+7890-4321|O Vale dos Segredos|Marta Santos|Jornal|2002|FISICO
+4436962600034|A Princesa e o Dragao|Ana Martins|Ficcao|2015|6
+8744061410003|O Despertar da Magia|Ines Costa|Cientifico|2019|9

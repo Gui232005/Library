@@ -1,0 +1,3 @@
+C:/Users/guisi/Downloads/OneDrive_2025-01-28/CODIGO NOVO/cmake-build-debug/CMakeFiles/Projeto_POO_EXP.dir
+C:/Users/guisi/Downloads/OneDrive_2025-01-28/CODIGO NOVO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guisi/Downloads/OneDrive_2025-01-28/CODIGO NOVO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

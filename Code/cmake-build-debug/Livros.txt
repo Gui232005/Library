@@ -1,0 +1,24 @@
+789321040|MAnuel foi nada na praia|Diogo Oliveira|2001|15|Cientifico
+456789123|Chorico de Arroios|Choricinho|1995|Fisico|Jornal
+753698412|O Miguel Milhao|Guilherme Silva|2025|1|Ficcao
+5678-1234|O Diario Secreto|Sofia Pereira|2006|DIGITAL|Jornal
+5687-4321|O Manuel Morreu|Guilherme Silva|2020|10|Ficcao
+2345-6789|A Magia do Outono|Joao Pereira|2015|4|Revista
+8765-4321|O Misterio da Caverna|Maria Almeida|2016|FISICO|Jornal
+1234-8765|O Principe Dragao|Andre Oliveira|2012|10|Revista
+4321-5678|O Misterio do Farol|Ricardo Almeida|2011|DIGITAL|Jornal
+1234567890123|O Tesouro Perdido|Laura Silva|2007|6|Educativo
+1497071211002|A Cidade do Silencio|Joana Alves|2013|9|Ficcao
+6789-1234|A Terra dos Sonhos|Sofia Rodrigues|2000|12|Revista
+8765-2345|O Misterio do Relogio|Ana Santos|2005|FISICO|Jornal
+9115516080004|A Furia do Dragao|Diogo Costa|2016|4|Cientifico
+1616963934001|O Codigo das Sombras|Diana Lima|2007|11|Ficcao
+2345-1234|O Feiticeiro Perdido|Andre Dias|2011|7|Revista
+4321-8765|O Misterio da Mansao|Rafael Ferreira|2004|DIGITAL|Jornal
+1090404191001|A Ilha dos Segredos|Ines Pereira|2015|3|Cientifico
+7150147100234|O Enigma da Esfinge|Joao Costa|2008|2|Ficcao
+1881569813012|A Jornada do Heroi|Miguel Santos|2010|8|Educativo
+5678-8765|A Cidade das Sombras|Mariana Costa|1976|5|Revista
+7890-4321|O Vale dos Segredos|Marta Santos|2002|FISICO|Jornal
+4436962600034|A Princesa e o Dragao|Ana Martins|2015|6|Ficcao
+8744061410003|O Despertar da Magia|Ines Costa|2019|9|Cientifico
